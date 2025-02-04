@@ -88,7 +88,7 @@ class RAGPipeline:
         
         try:
             # Initialize models
-            self.llm = ChatGroq(model="llama3-8b-8192")
+            self.llm = ChatGroq(model="llama-3.3-70b-versatile")
             self.embeddings = NomicEmbeddings(model="nomic-embed-text-v1.5")
             self.vector_store = InMemoryVectorStore(self.embeddings)
             

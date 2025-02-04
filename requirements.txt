@@ -1,4 +1,5 @@
 bs4
+langchain
 langchain-text-splitters
 langchain-community
 langgraph
@@ -10,5 +11,10 @@ python-dotenv
 pypdf2
 termcolor
 tiktoken
-tempfile
-json
+langchain-postgres 
+psycopg2-binary 
+supabase
+supabase-py
+python-jose[cryptography]
+postgrest
+httpx
