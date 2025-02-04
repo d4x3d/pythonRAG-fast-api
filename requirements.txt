@@ -1,0 +1,14 @@
+bs4
+langchain-text-splitters
+langchain-community
+langgraph
+langchain-groq
+langchain-openai
+langchain-core
+langchain-nomic
+python-dotenv
+pypdf2
+termcolor
+tiktoken
+tempfile
+json
