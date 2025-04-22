@@ -14,7 +14,6 @@ tiktoken
 langchain-postgres 
 psycopg2-binary 
 supabase
-supabase-py
 python-jose[cryptography]
 postgrest
 httpx
